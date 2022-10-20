@@ -9,5 +9,9 @@ Hi there 👋 I am Volkan ,
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/volkankgil)
 
+
+![Volkan Kebapcıgil GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&theme=dark&show_icons=true)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
 
