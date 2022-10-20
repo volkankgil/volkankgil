@@ -7,3 +7,7 @@ Hi there 👋 I am Volkan ,
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=volkankgil.colkankgil)
 
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/volkankgil)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
+
