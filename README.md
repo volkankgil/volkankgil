@@ -7,7 +7,7 @@ Hi there 👋 I am Volkan ,
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=volkankgil.colkankgil)
 
