@@ -16,10 +16,12 @@ Hi there 👋 I am Volkan ,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkankgil&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
 
-gem install github-linguist
+
 
 
 
