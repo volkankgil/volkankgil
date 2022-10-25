@@ -19,5 +19,7 @@ Hi there 👋 I am Volkan ,
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
 
+gem install github-linguist
+
 
 
