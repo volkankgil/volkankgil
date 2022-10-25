@@ -1,6 +1,6 @@
 Hi there 👋 I am Volkan ,
 
-- 🔭 I want to work as Backend Develeoper
+- 🔭 I want to work as Backend or Frontend Develeoper
 - 🌱 I’m currently continue to learning Java, Java Spring, SQL, Deployment,MicroServices,Design Patterns
 - 📫 How to reach me: volkankgil@gmail.com
 
