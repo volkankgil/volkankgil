@@ -13,13 +13,6 @@ Hi there 👋 I am Volkan ,
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/volkankgil)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkankgil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkankgil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=volkankgil&theme=dark)](https://git.io/streak-stats)
