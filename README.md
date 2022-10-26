@@ -20,6 +20,6 @@ Hi there 👋 I am Volkan ,
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=volkankgil&show_icons=true&theme=tokyonight)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkankgil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
