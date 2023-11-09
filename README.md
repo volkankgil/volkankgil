@@ -1,6 +1,6 @@
 Hi there 👋 I am Volkan ,
 
-- 🔭 I want to work as Backend/Frontend Develeoper or QA Automation Test Engineer. I have completed E-BEBEK company's Java-Hibernate-Solid Bootcamp through the patika online learning site.
+- 🔭 I want to work as Backend/Frontend Develeoper or QA Automation Test Engineer. I have completed E-BEBEK company's Java-Hibernate-QA Test Engineer Bootcamp through the patika online learning site.
 - 
 - 🌱 I know some programming languages, framework, technology tools and database management tools, for example; Java, Spring Framework, Selenium, TestNg, Cucumber, SQL, Hibernate, MVC, VCS, HTML, CSS, BootStrap, Deployment, MicroServices, Design Patterns
 - 
