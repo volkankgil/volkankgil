@@ -13,7 +13,7 @@ Hi there 👋 I am Volkan ,
           
           
 
-![](https://visitor-badge.laobi.icu/badge?page_id=volkankgil.colkankgil)
+![](https://visitor-badge.laobi.icu/badge?page_id=volkankgil.volkankgil)
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/volkankgil)
 
